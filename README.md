@@ -1,4 +1,4 @@
-Regresión KPI TTLM
+# Regresión KPI TTLM
 
 En el presente trabajo se busca encontrar el impacto que tienen las horas de atención promedio (TTLM) de envíos con levante parcial en las horas TTLM promedio del total de envíos que pasan por canal rojo y tienen levante.
 La finalidad es establecer una serie de medidas para reducir el indicador KPI TTLM de la división de Envíos Postales. Se tiene como hipótesis que los envíos con levante parcial al ser tramitados obligatoriamente por el consginatario a través Mesa de Partes virtual dilatan el TTLM total.
